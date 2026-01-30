@@ -20,7 +20,7 @@ Trader profitability tends to increase during fear-driven markets, suggesting op
 
 - notebook_1.ipynb → Complete analysis
 - historical_data.csv.zip → Trading dataset
--
+
 
 
 

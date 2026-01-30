@@ -16,3 +16,11 @@ Trader profitability tends to increase during fear-driven markets, suggesting op
 - historical_data.csv
 - fear_greed_index.csv
 - analysis notebook
+- ## Project Files
+
+- notebook_1.ipynb → Complete analysis
+- historical_data.csv.zip → Trading dataset
+- Fear_Greed_Index_Analysis.pdf → Data Science report
+
+
+

@@ -13,7 +13,6 @@ Analyze how crypto market sentiment (Fear & Greed Index) influences trader profi
 Trader profitability tends to increase during fear-driven markets, suggesting opportunities created by panic selling.
 
 ## Files
-- historical_data.csv
 - fear_greed_index.csv
 - analysis notebook
 - ## Project Files
